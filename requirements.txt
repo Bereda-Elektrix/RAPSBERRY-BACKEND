@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+websockets
+numpy
+opencv-python
+pyserial
+crcmod
+cmapy
+smbus2
+lgpio
+gpiozero
